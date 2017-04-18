@@ -1,0 +1,20 @@
+{
+  "name": "server-grideoapp",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cloudinary": "^1.8.0",
+    "connect-multiparty": "^2.0.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "gify": "^0.2.0",
+    "mongoose": "^4.6.6"
+  }
+}
